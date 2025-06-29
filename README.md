@@ -118,12 +118,10 @@ You're now ready to run the agent!
 
 ### Step 5: Use the Agent
 
-Go to the **Frontend UI at [http://localhost:3000/](http://localhost:3000/)** and start a new chat. Ask it to perform a translation. The Master Agent will now see your running `gemini_translator` tool and delegate the task to it.
+Go to the **Frontend UI at [http://localhost:3000/](http://localhost:3000/)** and start a new chat. Ask it to perform a translation. The Master Agent will now see your running `translate_text` tool and delegate the task to it.
 
 **Example Prompts:**
 
 - "Translate 'it's raining cats and dogs' from English to French."
 - "How do you say 'this is a piece of cake' in Spanish?"
 - "What is 'Wie geht es Ihnen?' in English?"
-
-Enjoy your intelligent translator!
